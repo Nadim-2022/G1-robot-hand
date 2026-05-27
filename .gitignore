@@ -1,0 +1,6 @@
+# Training data and datasets
+raw_datasets/
+raw_datasets (copy)/
+xr_teleoperate/teleop/utils/data/
+Miniconda3-latest-Linux-x86_64.sh
+Instructions/
